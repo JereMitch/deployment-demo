@@ -1,0 +1,15 @@
+body {
+    background: aliceblue;
+    color: rgb(41, 39, 39);
+}
+
+h1 {
+    text-align: center;
+}
+
+.button {
+    height: 45px;
+    width: 75px;
+    background-color: azure;
+    border-radius: 10px;
+}
